@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+    height: 150vh;
+}
+.different{
+    position: sticky;
+    background-color: yellow;
+    top: 20px;
+}
